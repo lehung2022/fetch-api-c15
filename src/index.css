@@ -13,6 +13,8 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #8795dc;
+  color: #c12141;
 }
 
 form {
@@ -27,8 +29,8 @@ button {
 }
 
 button.selected {
-  background-color: #000;
-  color: #fff;
+  background-color: #5133b7;
+  color: #142268;
 }
 
 ul {
@@ -46,6 +48,6 @@ li {
 }
 
 td {
-  border: 1px solid #000;
+  border: 1px solid #d1cdcd;
   padding: 0.25rem;
 }
